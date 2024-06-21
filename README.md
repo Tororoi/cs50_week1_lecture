@@ -2,7 +2,7 @@
 
 ### Libraries
 
-```https://github.com/cs50/libcs50/blob/main/README.md```
+[cs50.h](https://github.com/cs50/libcs50/blob/main/README.md)
 
 ### Compile
 
