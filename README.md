@@ -1,4 +1,4 @@
-## Week 1 lecture notes for cs50 2024
+## Lecture notes for cs50x 2024
 
 ### Libraries
 
