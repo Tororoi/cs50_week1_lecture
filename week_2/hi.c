@@ -3,7 +3,11 @@
 
 int main(void)
 {
-    // H I ! \0
-    string s = "HI!";
-    printf("%i%i%i%i\n", s[0], s[1], s[2], s[3]);
+    string words[2];
+
+    words[0] = "HI!";
+    words[1] = "BYE!";
+
+    printf("%s\n", words[0]);
+    printf("%s\n", words[1]);
 }
